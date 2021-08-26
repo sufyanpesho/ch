@@ -700,7 +700,7 @@ def menu_select():
  
 		                                                    if 'www.facebook.com' in d['error_msg']:
  
-		                                                        print("\x1b[1;97m[\x1b[1;92mSUFYAN>OK\x1b[1;97m]\x1b[1;97m "+uid+"\x1b[1;91m | \x1b[1;97m"+pass7+"\x1b[1;91m | \x1b[1;97m"+name)
+		                                                        print("\x1b[1;92m[\x1b[1;92mSUFYAN>OK\x1b[1;92m]\x1b[1;92m "+uid+"\x1b[1;91m | \x1b[1;92m"+pass7+"\x1b[1;92m | \x1b[1;92m"+name)
  
 		                                                        cp=open("mzcp.txt","a")
  
