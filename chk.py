@@ -497,7 +497,7 @@ def menu_select():
  
 		    if 'www.facebook.com' in d['error_msg']:
  
-		        print("\x1b[1;97m[\x1b[1;93mCheckPoint\x1b[1;97m]\x1b[1;97m "+uid+"\x1b[1;91m | \x1b[1;97m"+pass1+"\x1b[1;91m | \x1b[1;97m"+name)
+		        print("\x1b[1;97m[\x1b[1;93mSUFYAN>CP\x1b[1;97m]\x1b[1;97m "+uid+"\x1b[1;91m | \x1b[1;97m"+pass1+"\x1b[1;91m | \x1b[1;97m"+name)
 		        cp=open("mzcp.txt","a")
  
 		        cp.write(uid+" = "+pass1+"\n")
@@ -530,7 +530,7 @@ def menu_select():
  
 		            if 'www.facebook.com' in d['error_msg']:
  
-		                print("\x1b[1;97m[\x1b[1;93mCheckPoint\x1b[1;97m]\x1b[1;97m "+uid+"\x1b[1;91m | \x1b[1;97m"+pass2+"\x1b[1;91m | \x1b[1;97m"+name)
+		                print("\x1b[1;97m[\x1b[1;93mSUFYAN>CP\x1b[1;97m]\x1b[1;97m "+uid+"\x1b[1;91m | \x1b[1;97m"+pass2+"\x1b[1;91m | \x1b[1;97m"+name)
  
 		                cp=open("mzcp.txt","a")
  
@@ -598,7 +598,7 @@ def menu_select():
  
 		                            if 'www.facebook.com' in d['error_msg']:
  
-		                                print("\x1b[1;97m[\x1b[1;93mCheckPoint\x1b[1;97m]\x1b[1;97m "+uid+"\x1b[1;91m | \x1b[1;97m"+pass4+"\x1b[1;91m | \x1b[1;97m"+name)
+		                                print("\x1b[1;97m[\x1b[1;93mSUFYAN>CP\x1b[1;97m]\x1b[1;97m "+uid+"\x1b[1;91m | \x1b[1;97m"+pass4+"\x1b[1;91m | \x1b[1;97m"+name)
  
 		                                cp=open("mzcp.txt","a")
  
@@ -632,7 +632,7 @@ def menu_select():
  
 		                                    if 'www.facebook.com' in d['error_msg']:
  
-		                                        print("\x1b[1;97m[\x1b[1;93mCheckPoint\x1b[1;97m]\x1b[1;97m "+uid+"\x1b[1;91m | \x1b[1;97m"+pass5+"\x1b[1;91m | \x1b[1;97m"+name)
+		                                        print("\x1b[1;97m[\x1b[1;93mSUFYAN>CP\x1b[1;97m]\x1b[1;97m "+uid+"\x1b[1;91m | \x1b[1;97m"+pass5+"\x1b[1;91m | \x1b[1;97m"+name)
  
 		                                        cp=open("mzcp.txt","a")
  
@@ -666,7 +666,7 @@ def menu_select():
  
 		                                            if 'www.facebook.com' in d['error_msg']:
  
-		                                                print("\x1b[1;97m[\x1b[1;93mCheckPoint\x1b[1;97m]\x1b[1;97m "+uid+"\x1b[1;91m | \x1b[1;97m"+pass6+"\x1b[1;91m | \x1b[1;97m"+name)
+		                                                print("\x1b[1;97m[\x1b[1;93mSUFYAN>CP\x1b[1;97m]\x1b[1;97m "+uid+"\x1b[1;91m | \x1b[1;97m"+pass6+"\x1b[1;91m | \x1b[1;97m"+name)
  
 		                                                cp=open("mzcp.txt","a")
  
